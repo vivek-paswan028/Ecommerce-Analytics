@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Data
+data/raw/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+
+database_backup.sql
+
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+database_backup.sql
+data/raw/
+*.csv
+.ipynb_checkpoints/
+
+# Processed datasets
+*.parquet
+
+
+data/processed/
