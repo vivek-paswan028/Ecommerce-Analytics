@@ -229,6 +229,8 @@ Key Metrics
 - Overall Conversion Rate
 - Cart-to-Buy Conversion
 - View-to-Favourite Conversion
+<img width="1458" height="500" alt="Screenshot 2026-08-17 145209" src="https://github.com/user-attachments/assets/d830362d-1e0f-47c9-97de-419b9cc86a2b" />
+
 
 ---
 
@@ -242,6 +244,7 @@ Includes:
 - Hourly purchase distribution
 - User segmentation
 - Purchase behavior analysis
+<img width="1458" height="768" alt="Screenshot 2026-08-17 145223" src="https://github.com/user-attachments/assets/bb80e227-03b4-414d-96f2-6358515660b0" />
 
 ---
 
@@ -255,6 +258,8 @@ Includes:
 - Estimated recovery revenue
 - Abandonment percentage
 - High-risk categories
+<img width="1455" height="488" alt="Screenshot 2026-08-17 145236" src="https://github.com/user-attachments/assets/1128253e-a86a-4ea1-8747-a87fcb07bfa5" />
+
 
 ---
 
@@ -268,6 +273,8 @@ Includes:
 - Purchases
 - Conversion rates
 - Category comparison
+<img width="1456" height="616" alt="Screenshot 2026-08-17 145250" src="https://github.com/user-attachments/assets/28cb726d-bd74-4742-a5d8-be8dab31d309" />
+
 
 ---
 
@@ -282,6 +289,8 @@ Customer Segments
 - Repeat Customers
 - Loyal Customers
 - VIP Customers
+  <img width="1458" height="547" alt="Screenshot 2026-08-17 145308" src="https://github.com/user-attachments/assets/9ad04b5a-64cb-4f1a-863b-a411d532019c" />
+
 
 ---
 
